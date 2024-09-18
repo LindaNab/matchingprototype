@@ -1,0 +1,11 @@
+Package: matchingprototype
+Title: Prototype of a Matching Package for Large Scale Data
+Version: 0.0.0.9000
+Authors@R: 
+    person("Linda", "Nab", , "lindanab4@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-1821-7246"))
+Description: Matching in epidemiologic studies using large scale data obtained from electronic health records.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
